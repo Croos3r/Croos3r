@@ -28,10 +28,10 @@ I'm mainly a Java Application developer, but I started recently web backend with
 
 ## Socials
 
-- <img height="20" src="https://twitter.com/favicon.ico" /> [@crooser_](https://twitter.com/crooser_)
-- <img height="20" src="https://instagram.com/favicon.ico" /> [@drn_csr91](https://www.instagram.com/drn_csr91)
+- <img height="30" src="https://twitter.com/favicon.ico" /> [@crooser_](https://twitter.com/crooser_)
+- <img height="30" src="https://instagram.com/favicon.ico" /> [@drn_csr91](https://www.instagram.com/drn_csr91)
 
 ## Contact
 
-- <img height="20" src="https://discord.com/assets/f8389ca1a741a115313bede9ac02e2c0.svg"> Dorian "Crooser" M.
-- <img height="20" src="https://ssl.gstatic.com/ui/v1/icons/mail/images/favicon5.ico"> [contact.crooser@gmail.com](mailto://contact.crooser@gmail.com)
+- <img height="30" src="https://discord.com/assets/f8389ca1a741a115313bede9ac02e2c0.svg"> Dorian "Crooser" M.
+- <img height="30" src="https://ssl.gstatic.com/ui/v1/icons/mail/images/favicon5.ico"> [contact.crooser@gmail.com](mailto://contact.crooser@gmail.com)
