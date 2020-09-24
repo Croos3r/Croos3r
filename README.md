@@ -38,4 +38,4 @@ I'm mainly a Java Application developer, but I started recently web backend with
 
 ### Portfolio (In development)
 
-- [crooser.xyz](https://www.crooser.xyz/)
+- 🌍 [crooser.xyz](https://www.crooser.xyz/)
