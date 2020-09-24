@@ -1,6 +1,6 @@
 ## Hello ! 👋
 
-I'm Crooser, also known as Dorian. I'm French and living near by Paris. I started developping at my 12.
+I'm Crooser, also known as Dorian. I'm French and living near by Paris. I started developing at my 12.
 
 I'm mainly a Java Application developer, but I started recently web backend with express.js !
 
