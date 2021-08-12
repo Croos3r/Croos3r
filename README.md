@@ -2,14 +2,15 @@
 
 I'm Crooser, also known as Dorian. I'm French and living near by Paris. I started developing at my 12.
 
-I'm mainly a Java Application developer, but I started recently web backend with express.js !
+I do Java Applications using JavaFx or lwjgl, web backend with NestJS and plenty of other things using my head!
 
 ## Languages that I use 💻
 
 - Java
-- JS
+- Typescript
 - Python
-- Linux Shell
+- Bash
+- C/C++
 
 ## Other things that I'm interested in 👀
 
