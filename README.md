@@ -13,7 +13,7 @@ I do side projects using Java ([Spigot](https://www.spigotmc.org/) for Minecraft
 - <img height="30" src="https://twitter.com/favicon.ico" /> [Twitter](https://twitter.com/crooser_)
 - <img height="30" src="https://instagram.com/favicon.ico" /> [Instagram](https://www.instagram.com/drn_csr91)
 - <img height="30" src="https://discord.com/assets/f8389ca1a741a115313bede9ac02e2c0.svg" /> [Discord](https://dsc.bio/crooser)
-- <img height="30" src="https://cdn-icons.flaticon.com/png/512/3536/premium/3536505.png?token=exp=1641339690~hmac=52f72d7057c4a2350251cafd1a6d562d" /> [Linkedin](https://www.linkedin.com/in/dorian-moy-2a9410228/)
+- <img height="30" src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" /> [Linkedin](https://www.linkedin.com/in/dorian-moy-2a9410228/)
 
 ## Hobbies
 
