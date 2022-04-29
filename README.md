@@ -24,12 +24,11 @@ Listening to music is my very own way to focus. I listen to and I can love every
 I'm not the greatest player in this world but I can proudly say that I'm not the worst. (Especially on League of Legends and Rocket League)
 
 #### 📚 Culture and Knowledge
-I'm always love to feed my mind with random actual or not facts and news from the world (and beyond 🌌)
+I always love to feed my mind with random actual or not facts and news from the world (and beyond 🌌)
 
 ## Jobs
 
-I'm at the time **not on the market**, focusing on my student life and my school projects but I'm currently searching an intern job offer from July 2022 to December 2022 to develop my professional experience and skills. (Nearby Paris or in Remote)
-
+I'm at the time **not on the market**, focusing on my student life and my school projects.
 I have already worked as a Freelance for many small businesses in the Minecraft community.
 
 # Thanks for reading! 👋
