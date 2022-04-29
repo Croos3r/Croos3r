@@ -18,13 +18,13 @@ I do side projects using Java ([Spigot](https://www.spigotmc.org/) for Minecraft
 ## Hobbies
 
 #### 🎵 Music
-Listening to music is my very own way to focus. I listen to and I can love every music styles but the ones I'm very into are Techno and Hardstyle.
+Listening to music is my very own way to focus. I listen to and I can love every music styles but the ones I'm very into are Rap and Hardstyle.
 
 #### 🎮 Gaming
 I'm not the greatest player in this world but I can proudly say that I'm not the worst. (Especially on League of Legends and Rocket League)
 
 #### 📚 Culture and Knowledge
-I always love to feed my mind with random actual or not facts and news from the world (and beyond 🌌)
+I always love to feed my mind with interesting facts and news from the world (and beyond 🌌)
 
 ## Jobs
 
