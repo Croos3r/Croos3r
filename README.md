@@ -1,7 +1,7 @@
 # Hello! 👋
 
 I'm Dorian, also known as Crooser on the web. I'm French and living nearby Paris.<br>
-I'm currently studying at [Epitech](https://epitech.eu) reinforcing my programming skills and learning collaborative work!<br>
+I'm currently studying at [Epitech](https://epitech.eu), reinforcing my programming skills and learning collaborative work!<br>
 I do side projects using Java ([Spigot](https://www.spigotmc.org/) for Minecraft and [lwjgl](https://www.lwjgl.org/) for graphical), Typescript for web fullstack ([NestJS](https://nestjs.com/), [NuxtJS](https://nuxtjs.org/), [NextJS](https://nextjs.org/)) and Python!
 <br><br><br>
 ![Statistics](https://github-readme-stats.vercel.app/api?username=Croos3r&show_icons=true&count_private=true&theme=radical)
