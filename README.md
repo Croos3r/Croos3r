@@ -10,7 +10,6 @@ I do side projects using Java ([Spigot](https://www.spigotmc.org/) for Minecraft
 ## Socials
 ###### Feel free to contact me on any of theses networks! (I'm also reachable by [mail](mailto://contact@dorianmoy.fr))
 
-- <img height="30" src="https://twitter.com/favicon.ico" /> [Twitter](https://twitter.com/crooser_)
 - <img height="30" src="https://instagram.com/favicon.ico" /> [Instagram](https://www.instagram.com/drn_csr91)
 - <img height="30" src="https://discord.com/assets/f8389ca1a741a115313bede9ac02e2c0.svg" /> [Discord](https://dsc.bio/crooser)
 - <img height="30" src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" /> [Linkedin](https://www.linkedin.com/in/dorian-moy-2a9410228/)
