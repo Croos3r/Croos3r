@@ -31,8 +31,8 @@ I always love to feed my mind with interesting facts and news from the world (an
 
 ## Jobs
 
-I'm currently searching a job that would fit from April 2024 to August 2024 before my departure to Korea !
-I also work in Freelance for businesses and individuals (Websites, mobile application and others)
+I'm currently searching a job that would fit from April 2024 to August 2024 before my departure to Korea !<br>
+I also work in Freelance for businesses and individuals (Websites, mobile application and others)<br>
 You can contact me by [mail](mailto://dorian.moy@epitech.eu) if you are interested
 
 # Thanks for reading! 👋
