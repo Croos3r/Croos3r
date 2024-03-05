@@ -35,6 +35,6 @@ I love to feed my mind with interesting facts and news from the world (and beyon
 ## Freelance
 
 My 5 years of experience in software development could benefit your projects!<br>
-Feel free to contact me on my socials and/or my [mail](mailto://dorian.moy@epitech.eu) if you are interested.
+Feel free to contact me on my socials and/or my [mail](mailto://contact@crooser.xyz) if you are interested.
 
 # Thanks for reading! 👋
