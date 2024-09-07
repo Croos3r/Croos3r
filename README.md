@@ -1,7 +1,7 @@
 # Hello! 👋
 
 I am Dorian, also known as Crooser on the web. I am French and living in Seoul, Korea.<br>
-Currently studying Computer Science in Chung Ang University where I am an exchange student for the 2024-2025 year!<br>
+Currently studying Computer Science in Chung Ang University where I am an exchange student for the 2024-2025 year!<br><br><br>
 ![Statistics](https://github-readme-stats.vercel.app/api?username=Croos3r&show_icons=true&count_private=true&theme=radical)<br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Croos3r&theme=radical&layout=compact)
 
