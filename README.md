@@ -8,13 +8,13 @@ Currently looking for highly problem resolution oriented challenges.
 My  experience in software development could benefit your projects!<br>
 Feel free to contact me by [mail](mailto://contact@dorianmoy.fr) if you are interested.
 
-![Statistics](https://github-readme-stats.vercel.app/api?username=Croos3r&show_icons=true&count_private=true&theme=radical)<br>
+![Statistics](https://github-readme-stats.vercel.app/api?username=Croos3r&theme=radical)<br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Croos3r&theme=radical&layout=compact)
 
 ## Hobbies
 
 #### 🎵 Music
-Listening to music is my very own way to focus. I listen to and I can love every music styles but the ones I'm very into are Hardcore & Hardstyle.
+I'm a huge fan of Hardcore and Hardstyle, I love the energy that these music genres generate, .
 
 #### 📚 Culture and Knowledge
 I love to feed my mind with interesting facts and news from the world (and beyond 🌌)
