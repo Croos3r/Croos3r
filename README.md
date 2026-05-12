@@ -6,7 +6,7 @@ Currently looking for highly problem resolution oriented challenges.
 ## Freelance
 
 My  experience in software development could benefit your projects!<br>
-Feel free to contact me by [mail] at `contact@dorianmoy.fr` if you are interested.
+Feel free to contact me by mail at `contact@dorianmoy.fr` if you are interested.
 
 ![Statistics](https://github-stats-extended.vercel.app/api?username=Croos3r&theme=radical&layout=compact&hide=contribs,prs)<br>
 ![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=Croos3r&hide=yara&theme=radical&layout=compact)
